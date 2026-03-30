@@ -23,6 +23,7 @@ function App() {
         >
           Count is {count}
         </button>
+        Copyright @ Multi million dollar App 2026
       </section>
 
       <div className="ticks"></div>
